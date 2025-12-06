@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/wengong-jin/nips17-rexgen/refs/heads/master/USPTO/data.zip
